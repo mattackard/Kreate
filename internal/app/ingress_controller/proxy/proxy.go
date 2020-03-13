@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/200106-uta-go/project-3/internal/app/ingress_controller/scanner"
+	"github.com/mattackard/project-3/internal/app/ingress_controller/scanner"
 )
 
 var count int
